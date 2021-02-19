@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("版本2");
         System.out.println("hot-fix");
         System.out.println("master");
+        System.out.println("github");
     }
 }
